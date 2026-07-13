@@ -18,6 +18,7 @@ Build a switched network with redundant paths and observe how Spanning Tree Prot
 - Cisco Switches
 - PCs
 - Copper Straight-through Cables
+- Copper Cross-over cables
 
 
 
