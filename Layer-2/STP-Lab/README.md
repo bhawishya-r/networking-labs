@@ -8,7 +8,8 @@ Build a switched network with redundant paths and observe how Spanning Tree Prot
 
 ## Network Topology
 
-(Add topology image here)
+<img width="1099" height="580" alt="STP-topology" src="https://github.com/user-attachments/assets/197b62c1-60b9-4e96-ac17-75c72e80d78a" />
+
 
 
 
