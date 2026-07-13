@@ -21,7 +21,8 @@ The network consists of:
 
 Each LAN is connected through a router, while a third router acts as the transit router connecting both networks.
 
-![Network Topology](screenshots/topology.png)
+<img width="998" height="632" alt="topology-static-r" src="https://github.com/user-attachments/assets/967375cc-a503-46e9-a033-6fe0b21cc4ac" />
+
 
 
 
